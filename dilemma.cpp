@@ -22,7 +22,7 @@ C is a person who doesn't rat out his neighbors, D is a prisoner who does.
 #include <cstdlib>
 #include <ctime>
 using namespace std;
-
+//test
 //Function prototypes
 
 void clearArray (string grid[][12], int size);
